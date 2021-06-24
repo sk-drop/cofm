@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+musixmatch/__init__.py
+musixmatch/musixmatch.py
+musixmatch/utils.py
+pymusixmatch.egg-info/PKG-INFO
+pymusixmatch.egg-info/SOURCES.txt
+pymusixmatch.egg-info/dependency_links.txt
+pymusixmatch.egg-info/not-zip-safe
+pymusixmatch.egg-info/requires.txt
+pymusixmatch.egg-info/top_level.txt
